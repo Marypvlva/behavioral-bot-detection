@@ -163,18 +163,6 @@ submission_final.csv
 
 Исходные данные в репозиторий не включаются.
 
----
-
-## Структура проекта
-
-```text
-behavioral-bot-detection/
-├── README.md
-├── behavioral_bot_detection.ipynb
-├── metric.py
-├── requirements.txt
-├── .gitignore
-└── data/
 ```
 
 Папка `data/` предназначена для локального хранения исходных данных и не должна попадать в публичный репозиторий.
